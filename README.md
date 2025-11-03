@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Prathibha Siriwardhana</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-<img align="right" alt="coding" width="200" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
-
 <p align="left"> <img src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" /> </p>
 
 - 🌱 I’m currently learning **Computer Science**
