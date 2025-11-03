@@ -1,3 +1,4 @@
+![logo](https://github.com/Prathi100/Prathi100/blob/main/My_Banner.png)
 <h1 align="center">Hi 👋, I'm Prathibha Siriwardhana</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
